@@ -23,7 +23,9 @@ namespace WinFormTest
             int x = 0;
             for (int i = 0; i < length; i++)
             {
-
+                var xxxx = 0;
+                var cvvvv = 890;
+                var bbbb = 90;
             }
             int xc = 0;
         }
