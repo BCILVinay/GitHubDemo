@@ -1,0 +1,2 @@
+F:\DemoCode\WinFormTest\WinFormTest\bin\Debug\WinFormTest.exe.config
+F:\DemoCode\GitHubDemo\WinFormTest\bin\Debug\WinFormTest.exe.config
