@@ -20,6 +20,8 @@ namespace WinFormTest
         private void Form2_Load(object sender, EventArgs e)
         {
             MessageBox.Show("Form Loaded !!!");
+
+
         }
     }
 }
