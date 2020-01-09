@@ -21,7 +21,7 @@ namespace WinFormTest
         {
             MessageBox.Show("Form Loaded !!!");
             int x = 0;
-            for (int i = 0; i < length; i++)
+            for (int i = 0; i < 10; i++)
             {
                 var xxxx = 0;
                 var cvvvv = 890;
