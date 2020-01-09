@@ -22,7 +22,6 @@ namespace WinFormTest
             MessageBox.Show("Form Loaded !!!");
             int x = 0;
             int y = 0;
-            int z = x + y;
             int xc = 0;
         }
     }
